@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries for the week",
+      "description": "Milk, eggs, bread, and bananas",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Finish homework",
+      "description": "Math, science, and history",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Clean the house",
+      "description": "Living room, kitchen, and bathroom",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Go for a run",
+      "description": "3 miles around the park",
+      "completed": false
+    }
+  ]
+}
